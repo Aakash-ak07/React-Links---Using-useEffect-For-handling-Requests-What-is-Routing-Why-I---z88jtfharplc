@@ -11,4 +11,4 @@ const RenderingTopic = () => {
   )
 }
 
-export default RenderingTopic
+export default RenderingTopic;
